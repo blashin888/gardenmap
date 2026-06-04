@@ -1,2 +1,5 @@
 # gardenmap
-A quiet map for what grows, returns, and changes.
+
+A place to keep traces.
+
+Still undefined.
